@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Employee Home</title>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+ 	<link rel="stylesheet" type="text/css" href="employee_home.css">
+
+</head>
+<body>
+<h2><img alt="" src="/Locker_reservation/logo.png" style="width: 100px; height: 98px; float: right;" /></h2>
+
+<h2>Locker Reservation System</h2>
+
+<p>Hello employee, this is your control panel to manage the system.</p>
+
+<div class="navbar" style="text-align: center;">
+    <a href="employee_home.html"><i class="fa fa-home"></i> Home</a>
+    <a href="reservation.php"> <i class="fa fa-lock"></i> Reservation</a>
+    <a href="message.php"> <i class="fa fa-envelope"></i> Message</a>
+    <a class="active" href="#"> <i class="fa fa-user"></i> LogOut</a>
+</div>
+
+<!-- Page Content -->
+
+<div id="main" style="margin-top: 100px;text-align: center; font-family:georgia,serif;">
+<p>By pressing on <strong>Log out</strong>, your session will be closed permanently.</p>
+<button type="button" onclick="location.href='login.html'">Log Out</button>
+</div>
+</body>
+</html>

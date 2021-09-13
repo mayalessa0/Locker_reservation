@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Locker Reservation</title>
+    <link rel="stylesheet" type="text/css" href="login.css">
+
+<style>
+footer {
+  position: fixed;
+  background-color: #00858a;
+  text-align: center;
+  color: white;
+  width:100%;
+  height: 5%;
+  bottom: 0%;
+  left:0%;
+
+}
+body  {
+  background-image: url("background1.PNG");
+ background-size:100%;
+
+}
+</style>
+</head>
+
+<body>
+
+
+    <div class="imgcontainer">
+        <img src="logo.png" alt="Avatar" class="avatar">
+    </div>
+
+    <form  action="login.php" method="post">
+
+
+        <div class="input-group">
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Your Email" name="email" required>
+
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+
+            <button type="submit">Login</button>
+
+            <span class="about"> <a href="about_us.html">About us?</a></span>
+
+        </div>
+
+        <div class="container" style="background-color:#f1f1f1">
+            <button type="button" class="registerBtn"  onclick="location.href='register.html'">Create a new account</button>
+            <button type="button" class="psw" onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Forgot password?</button>
+        </div>
+    </form>
+
+
+    <div id="id01" class="modal">
+
+        <form class="modal-content animate" action="retrieve_password.php" method="post">
+            <div class="imgcontainer">
+
+                <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+                <img src="ask_password.png" alt="Avatar" class="avatar">
+
+            </div>
+
+            <div class="container">
+
+              <label for="uname"><b>Forgtten password will be send via your registered email</b></label>
+              <input type="text" placeholder="Enter Your Email" name="registered_email" required>
+              <button type="submit">Send</button>
+
+            </div>
+
+        </form>
+    </div>
+
+<script>
+
+
+// Get the modal
+var modal = document.getElementById('id01');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+<footer>
+   <p style="font-size :15px;"> This website is a Graduation Project of Information System department for 2020/2021 academic year,contact us by <a href="mailto:nnajla-123@hotmail.com">send email</a></p>
+
+
+
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>Create New Account</title>
+    <link rel="stylesheet" type="text/css" href="login.css">
+
+
+</head>
+<body>
+
+  
+    <div class="imgcontainer">
+        <img src="logo.png" alt="Avatar" class="avatar">
+    </div>
+    
+    <form  action="register.php" method="post" enctype="multipart/form-data">
+        
+        <p style="color:#9C6AB7"> <b>All fields are required!</b></p>
+
+
+        <div class="input-group">
+            
+            <label for="ID"><b>Student ID</b></label>
+            <input type="text" placeholder="Enter Your student id" name="ID" required>
+            
+            <label for="password"><b>Password</b></label>
+            <input type="password" placeholder="Enter password (8 digit at maximum)" name="password" required>
+            
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Your Email" name="email" required>
+            
+            <label for="name"><b>Full Name</b></label>
+            <input type="text" placeholder="Enter Your your full name" name="name" required>
+            
+            
+            <label for="phone"><b>Phone number</b></label>
+            <input type="text" placeholder="Enter Your phone number (phone format:9665xxxxxxxx)" name="phone" required>
+            
+            <label for="image"><b>Upload a copy from your student ID card:</b></label><br><br>
+            <input type="file" name="image" required/>
+            
+             <div class="container" style="background-color:#f1f1f1">
+                    <input type="checkbox" id="agreement" name="agreement" value="agreement" required>
+                    <label for="agreement" >I agree to the terms and the conditions of   
+                    <a href="register_agreement.html" target="_blank">Locker Reservation System agreement </a>.</label>
+            </div>
+            
+        
+            <button type="submit">Register</button>
+        </div>
+        
+       
+    </form>
+</body>
+</html>

@@ -1,0 +1,412 @@
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 59
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: receiver_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 61
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: datetime in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 63
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: content in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 65
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 02:38:19 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:08:54 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:08:54 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:08:55 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:08:55 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:08:57 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:08:57 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 59
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: receiver_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 61
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: datetime in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 63
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: content in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 65
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:09:02 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:09:46 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:09:46 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:09:48 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:09:48 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 59
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: receiver_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 61
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: datetime in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 63
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: content in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 65
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:09:51 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:10:30 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:10:30 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:12:01 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:12:01 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:12:11 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:12:11 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:13:41 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:13:41 UTC] PHP Notice:  Undefined variable: go_to_payment in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 64
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 59
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: receiver_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 61
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: datetime in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 63
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: content in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 65
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:13:47 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 59
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: receiver_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 61
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: datetime in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 63
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: content in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 65
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[22-Aug-2020 03:14:34 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/read_message.php on line 68
+[24-Aug-2020 02:14:42 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 32
+[24-Aug-2020 02:23:14 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[24-Aug-2020 04:05:40 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[24-Aug-2020 04:06:17 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[24-Aug-2020 04:08:17 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[24-Aug-2020 04:10:21 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[24-Aug-2020 15:03:01 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[25-Aug-2020 03:00:57 UTC] PHP Notice:  Undefined index: floor in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 33
+[25-Aug-2020 03:00:57 UTC] PHP Notice:  Undefined index: block in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 34
+[25-Aug-2020 03:08:08 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[25-Aug-2020 03:08:08 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 76
+[25-Aug-2020 03:08:20 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[25-Aug-2020 03:08:20 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 76
+[25-Aug-2020 03:09:21 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 72
+[25-Aug-2020 03:09:21 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 76
+[25-Aug-2020 03:32:12 UTC] PHP Notice:  Undefined index: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 173
+[25-Aug-2020 03:40:11 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:40:11 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:40:11 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:40:11 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:40:48 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:40:48 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:40:48 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:40:48 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:41:53 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:41:53 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:41:53 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:41:53 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:41:53 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:44:24 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:44:24 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:44:24 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:44:24 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:44:24 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:44:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:44:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:49:33 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:49:33 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:49:33 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:49:33 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:49:33 UTC] PHP Warning:  Use of undefined constant interest - assumed 'interest' (this will throw an Error in a future version of PHP) in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:49:33 UTC] PHP Warning:  Illegal string offset 'value' in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:51:49 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:51:49 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:51:49 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:51:49 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:51:49 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 03:53:43 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 89
+[25-Aug-2020 03:53:43 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 90
+[25-Aug-2020 03:53:43 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 91
+[25-Aug-2020 03:53:43 UTC] PHP Notice:  Undefined variable: result in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 92
+[25-Aug-2020 03:53:43 UTC] PHP Warning:  Use of undefined constant interest - assumed 'interest' (this will throw an Error in a future version of PHP) in /home/edfzmikn148t/public_html/Locker_reservation/test.php on line 95
+[25-Aug-2020 04:02:09 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 15
+[25-Aug-2020 04:02:09 UTC] PHP Notice:  Undefined index: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 174
+[25-Aug-2020 04:02:23 UTC] PHP Notice:  Undefined index: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 174
+[25-Aug-2020 04:08:34 UTC] PHP Notice:  Undefined index: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 174
+[25-Aug-2020 04:17:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 298
+[25-Aug-2020 04:17:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 298
+[25-Aug-2020 04:17:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 298
+[25-Aug-2020 04:17:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 298
+[25-Aug-2020 04:17:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 298
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:40:38 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:41:51 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 179
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: floor in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 04:43:08 UTC] PHP Notice:  Undefined variable: block in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 186
+[25-Aug-2020 13:25:57 UTC] PHP Notice:  Undefined index: CVVCVC in /home/edfzmikn148t/public_html/Locker_reservation/payment_function.php on line 12
+[26-Aug-2020 01:32:44 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[31-Aug-2020 05:20:24 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 31
+[31-Aug-2020 05:23:52 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 32
+[31-Aug-2020 05:38:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 38
+[31-Aug-2020 05:38:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 38
+[31-Aug-2020 05:40:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 38
+[31-Aug-2020 05:47:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 38
+[31-Aug-2020 05:50:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 38
+[31-Aug-2020 05:52:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 45
+[31-Aug-2020 05:52:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 45
+[31-Aug-2020 05:53:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 45
+[31-Aug-2020 06:05:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 17
+[31-Aug-2020 06:05:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 23
+[31-Aug-2020 06:07:43 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 31
+[18-Sep-2020 11:36:25 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 51
+[18-Sep-2020 11:36:25 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 55
+[18-Sep-2020 11:36:25 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 58
+[19-Sep-2020 10:41:47 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[19-Sep-2020 10:42:14 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[19-Sep-2020 10:42:38 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[19-Sep-2020 11:15:50 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[19-Sep-2020 11:17:37 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[26-Sep-2020 20:55:23 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[26-Sep-2020 20:55:23 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
+[26-Sep-2020 22:31:21 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:35:59 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:36:57 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:39:37 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:42:30 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:42:32 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:43:25 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:43:29 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:46:58 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 22:47:00 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 42
+[26-Sep-2020 23:11:42 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[26-Sep-2020 23:11:42 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
+[26-Sep-2020 23:30:54 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[27-Sep-2020 12:06:22 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[27-Sep-2020 12:27:44 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 12:28:15 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[27-Sep-2020 12:29:34 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[27-Sep-2020 12:29:34 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[27-Sep-2020 12:33:32 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 12:34:05 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 12:36:31 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[27-Sep-2020 12:36:31 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[27-Sep-2020 12:36:56 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 12:49:01 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[27-Sep-2020 13:13:38 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 13:13:48 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[27-Sep-2020 14:13:18 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[27-Sep-2020 14:15:08 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[27-Sep-2020 14:15:26 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[27-Sep-2020 14:15:26 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[27-Sep-2020 15:18:34 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[27-Sep-2020 15:33:56 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[27-Sep-2020 15:33:56 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[27-Sep-2020 15:34:03 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[27-Sep-2020 15:34:03 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[27-Sep-2020 15:44:26 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[28-Sep-2020 08:33:26 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[30-Sep-2020 07:55:21 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 51
+[30-Sep-2020 07:55:21 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 55
+[30-Sep-2020 07:55:21 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 58
+[30-Sep-2020 08:05:20 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[30-Sep-2020 08:07:43 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[30-Sep-2020 08:28:42 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[30-Sep-2020 08:29:08 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[30-Sep-2020 08:29:11 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[30-Sep-2020 12:26:28 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[30-Sep-2020 14:09:02 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[30-Sep-2020 14:10:05 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[30-Sep-2020 14:10:44 UTC] PHP Notice:  Undefined variable: student_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 74
+[30-Sep-2020 14:10:44 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[30-Sep-2020 14:10:59 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[30-Sep-2020 14:11:03 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[20-Oct-2020 12:22:23 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[20-Oct-2020 12:50:13 UTC] PHP Notice:  Undefined variable: con in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 58
+[20-Oct-2020 12:50:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 58
+[01-Nov-2020 18:58:08 UTC] PHP Notice:  Undefined variable: con in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 94
+[01-Nov-2020 18:58:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 94
+[01-Nov-2020 21:28:34 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Nov-2020 21:29:10 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 51
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 55
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 58
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: content in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 5
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: from in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 6
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: to in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 7
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined index: subject in /home/edfzmikn148t/public_html/Locker_reservation/send_function.php on line 8
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[03-Nov-2020 09:23:15 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[03-Nov-2020 15:16:50 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[03-Nov-2020 15:42:13 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 58
+[04-Nov-2020 17:40:27 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[04-Nov-2020 18:47:56 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 42
+[04-Nov-2020 18:48:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 42
+[04-Nov-2020 19:18:55 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[04-Nov-2020 19:42:05 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[07-Nov-2020 13:10:58 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[08-Nov-2020 22:53:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[09-Nov-2020 21:01:57 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[10-Nov-2020 14:29:09 UTC] PHP Notice:  Undefined variable: con in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 86
+[10-Nov-2020 14:29:09 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/edfzmikn148t/public_html/Locker_reservation/message.php on line 86
+[10-Nov-2020 19:36:06 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[10-Nov-2020 22:22:51 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[12-Nov-2020 23:18:49 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[13-Nov-2020 19:08:43 UTC] PHP Notice:  Undefined index: user_email in /home/edfzmikn148t/public_html/Locker_reservation/student_message.php on line 62
+[13-Nov-2020 19:08:45 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 59
+[13-Nov-2020 19:08:45 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 63
+[13-Nov-2020 19:08:45 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/send_message.php on line 66
+[21-Nov-2020 20:01:29 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[22-Nov-2020 00:33:24 UTC] PHP Notice:  Undefined variable: student_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 74
+[22-Nov-2020 00:33:24 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[22-Nov-2020 00:33:24 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[22-Nov-2020 01:53:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 01:53:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/get_locker.php on line 53
+[22-Nov-2020 02:32:12 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[22-Nov-2020 18:00:51 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[22-Nov-2020 18:01:02 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[22-Nov-2020 18:01:02 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[22-Nov-2020 21:25:43 UTC] PHP Notice:  Undefined variable: employee_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 18
+[22-Nov-2020 21:25:43 UTC] PHP Notice:  Undefined variable: employee_id in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 25
+[22-Nov-2020 21:25:43 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 62
+[22-Nov-2020 21:25:48 UTC] PHP Notice:  Undefined variable: employee_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 18
+[22-Nov-2020 21:25:48 UTC] PHP Notice:  Undefined variable: employee_id in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 25
+[22-Nov-2020 21:25:48 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 62
+[22-Nov-2020 21:26:09 UTC] PHP Notice:  Undefined variable: employee_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 18
+[22-Nov-2020 21:26:09 UTC] PHP Notice:  Undefined variable: employee_id in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 25
+[22-Nov-2020 21:26:09 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 62
+[22-Nov-2020 21:27:14 UTC] PHP Notice:  Undefined variable: employee_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 18
+[22-Nov-2020 21:27:14 UTC] PHP Notice:  Undefined variable: employee_id in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 25
+[22-Nov-2020 21:27:14 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 62
+[22-Nov-2020 21:53:05 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 21:53:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 41
+[22-Nov-2020 21:56:56 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 21:57:08 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 21:57:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 41
+[22-Nov-2020 21:57:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 41
+[22-Nov-2020 22:03:11 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 22:03:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 42
+[22-Nov-2020 22:03:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 42
+[22-Nov-2020 22:03:17 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 22:03:37 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 22:03:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 42
+[22-Nov-2020 22:03:41 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 22:03:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 42
+[22-Nov-2020 22:17:11 UTC] PHP Notice:  Undefined index: ID_employee in /home/edfzmikn148t/public_html/Locker_reservation/employeeinfo.php on line 30
+[22-Nov-2020 22:32:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 41
+[22-Nov-2020 22:33:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 41
+[22-Nov-2020 22:54:12 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:54:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:55:32 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:55:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:56:20 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:56:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:56:47 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 22:56:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 30
+[22-Nov-2020 23:02:54 UTC] PHP Notice:  Undefined variable: update_user_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 24
+[22-Nov-2020 23:02:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 24
+[22-Nov-2020 23:03:12 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 29
+[22-Nov-2020 23:03:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 29
+[22-Nov-2020 23:05:59 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 29
+[22-Nov-2020 23:05:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 29
+[23-Nov-2020 00:13:53 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[23-Nov-2020 00:13:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[23-Nov-2020 00:14:40 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[23-Nov-2020 00:15:56 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[23-Nov-2020 00:15:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[23-Nov-2020 04:02:55 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[23-Nov-2020 04:03:28 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[23-Nov-2020 04:03:28 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[23-Nov-2020 05:00:07 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[23-Nov-2020 06:32:16 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[23-Nov-2020 12:11:04 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[23-Nov-2020 12:11:04 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[23-Nov-2020 19:47:06 UTC] PHP Notice:  Undefined variable: sender_id in /home/edfzmikn148t/public_html/Locker_reservation/student_send_message.php on line 51
+[23-Nov-2020 19:47:06 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/student_send_message.php on line 54
+[23-Nov-2020 19:47:06 UTC] PHP Notice:  Undefined variable: receiver in /home/edfzmikn148t/public_html/Locker_reservation/student_send_message.php on line 56
+[23-Nov-2020 19:47:06 UTC] PHP Notice:  Undefined variable: subject in /home/edfzmikn148t/public_html/Locker_reservation/student_send_message.php on line 64
+[25-Nov-2020 03:39:05 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[25-Nov-2020 03:39:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[25-Nov-2020 22:35:22 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[01-Dec-2020 10:11:36 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:11:58 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:12:12 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:14:14 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:14:38 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:14:49 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:15:00 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:15:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:15:21 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:17:22 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[01-Dec-2020 10:17:22 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[01-Dec-2020 10:18:51 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 31
+[01-Dec-2020 10:19:35 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 31
+[01-Dec-2020 10:19:52 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/update_acct_function.php on line 31
+[01-Dec-2020 10:24:32 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[01-Dec-2020 10:27:05 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:28:05 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 18
+[01-Dec-2020 10:28:05 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/update_account.php on line 63
+[01-Dec-2020 10:29:12 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[01-Dec-2020 10:36:44 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[01-Dec-2020 10:36:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[01-Dec-2020 10:36:56 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[01-Dec-2020 10:36:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[01-Dec-2020 10:37:00 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[01-Dec-2020 10:37:00 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[03-Dec-2020 08:07:27 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:16:49 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:16:53 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:17:07 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:17:15 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:17:37 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:17:41 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:22:29 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:22:58 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:22:59 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:23:00 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:23:00 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:26:05 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:26:11 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 08:27:29 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:27:33 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:28:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:28:10 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:30:09 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:30:23 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 08:33:59 UTC] PHP Notice:  Undefined variable: update_emp_query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[03-Dec-2020 08:33:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/edfzmikn148t/public_html/Locker_reservation/update_employee_info_function.php on line 28
+[03-Dec-2020 09:35:00 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[03-Dec-2020 09:35:00 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
+[03-Dec-2020 09:41:06 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 09:44:47 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 09:50:18 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 09:50:46 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 09:59:22 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 09:59:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 19
+[03-Dec-2020 19:40:57 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[03-Dec-2020 19:40:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 19
+[03-Dec-2020 19:42:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 19
+[03-Dec-2020 20:50:04 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 20:50:21 UTC] PHP Notice:  Undefined variable: user_email in /home/edfzmikn148t/public_html/Locker_reservation/book_locker.php on line 16
+[03-Dec-2020 20:57:38 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[03-Dec-2020 21:03:21 UTC] PHP Notice:  Only variables should be passed by reference in /home/edfzmikn148t/public_html/Locker_reservation/register.php on line 48
+[05-Dec-2020 05:02:50 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[05-Dec-2020 05:02:50 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
+[05-Dec-2020 15:13:28 UTC] PHP Notice:  Undefined variable: locker_id in /home/edfzmikn148t/public_html/Locker_reservation/payment.php on line 78
+[18-Jan-2021 10:48:34 UTC] PHP Notice:  Undefined index: email in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 21
+[18-Jan-2021 10:48:34 UTC] PHP Notice:  Undefined index: psw in /home/edfzmikn148t/public_html/Locker_reservation/login.php on line 22
